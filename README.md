@@ -1,7 +1,7 @@
-Laboratory-sat_to_mat
+sat_to_mat
 =====================
 
-Codes used in the laboratory
+Codes used for mat code
 
 The project can be used with:
 
